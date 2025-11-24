@@ -36,5 +36,4 @@ This Power BI project visualizes job market trends using cleaned job listing dat
 4. Interact using slicers (Location, Role, Company)
 
 ## Author
-Darshan N A
-Power BI Analyst
+Darshan N A - Power BI Analyst
